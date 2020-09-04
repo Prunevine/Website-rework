@@ -1,6 +1,6 @@
 # Website-rework
 
-/*V1.0*/
+/*V1.1*/
 
 /*Semantic elements*/
 
@@ -16,6 +16,10 @@
 
 +Added footer tag
 
+-Removed div tag for the aside
+
++Added aside tag
+
 /*Title*/
 
 +Title changed to "Horiseon Media"
@@ -27,4 +31,8 @@
 /*style.css sections*/
 
 +Added ghost text to style.css to seperate sections of the code.
+
+/*Link fix(done in 1.1)*/
+
++Added id tag to search-engine-optimization div.
 
